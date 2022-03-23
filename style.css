@@ -3,3 +3,32 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+}
+figure{
+  display: block;
+  margin: 5% auto ;
+  width: 900px;
+  text-align: center;
+}
+header a{
+  background-color: rgb(209, 209, 209);
+  padding: 10px;
+}
+
+#featured-property p{
+  display: block;
+  line-height: 2rem;
+  margin: auto;
+  width: 800px;
+  text-align: center;
+}
+
+
+#details div{
+  float: left;
+  background-color: red;
+  width: 25%;
+  text-align: center;
+}
